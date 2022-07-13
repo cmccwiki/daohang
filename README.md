@@ -4,4 +4,4 @@
 
 中兴云化PON网管地址：https://10.140.230.7:28001/an-portal
 
-浪潮资管:https:10.173.14.138:10009/portal/#/index
+浪潮资管:https://10.173.14.138:10009/portal/#/index
